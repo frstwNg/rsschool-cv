@@ -8,4 +8,4 @@
 **Marital status:** Single
 **Nationality:** Soviet :)
 **Driving license:** AM,B,C
-**Computer literacy:** Microsoft Office, SketchUp, Компас3D
+**Computer literacy:** Microsoft Office, SketchUpPRO, Компас3D
